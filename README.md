@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![ZhiHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhiHaoi)](https://github.com/anuraghazra/github-readme-stats)
+# [![ZhiHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhiHaoi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiHaoi&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
