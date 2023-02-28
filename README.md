@@ -5,7 +5,7 @@
   <samp>
             <p align="center">
         <a href="https://github.com/ZhiHaoi/">
-          <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiHaoi&langs_count=6&theme=gruvbox_light&layout=compact&hide_border=true"
+          <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiHaoi&langs_count=6&theme=slateorange&layout=compact&hide_border=true"
           alt="ZhiHaoi :: overall Top Langs " />
         </a>
       </p>
@@ -21,8 +21,8 @@
   <samp>
         <p align="center">
           <a href="https://github.com/ZhiHaoi/">
-          <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=ZhiHaoi&show_icons=true&theme=gruvbox_light&hide_border=true" />
-          <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZhiHaoi&theme=gruvbox_light&hide_border=true" />
+          <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=ZhiHaoi&show_icons=true&theme=slateorange&hide_border=true" />
+          <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZhiHaoi&theme=slateorange&hide_border=true" />
           </a>
        </p>
      <br>
