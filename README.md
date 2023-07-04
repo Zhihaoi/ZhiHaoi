@@ -1,6 +1,6 @@
 # Hello there 👋
 
-<summary><h4>💻 GitHub Profile Stats</h4></summary>
+<!-- <summary><h4>💻 GitHub Profile Stats</h4></summary> -->
   <div>
   <samp>
             <p align="center">
@@ -18,7 +18,7 @@
           </a>
         </p> -->
 <div>
-  <samp>
+<!--   <samp>
         <p align="center">
           <a href="https://github.com/ZhiHaoi/">
           <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=ZhiHaoi&show_icons=true&theme=slateorange&hide_border=true" />
@@ -26,5 +26,5 @@
           </a>
        </p>
      <br>
-    <samp>
+    <samp> -->
   </div> 
